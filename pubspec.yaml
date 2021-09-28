@@ -1,22 +1,21 @@
 name: sample_data
 description: A new Flutter package that generated random sample data to test your application.
 version: 0.1.0
-author: Bhavk Makwana <ibhavikmakwana@gmail.com>
-homepage: https://github.com/ibhavikmakwana/sample_data
+homepage: https://etornam.dev/sample_data
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
 dev_dependencies:
+  flutter_lints: ^1.0.4
   flutter_test:
     sdk: flutter
 
 flutter:
-
   assets:
     - asset/
     - asset/kids/
